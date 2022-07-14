@@ -14,7 +14,7 @@ https://foundryvtt.com/packages/clocks/
 Or, install manually with [this Manifest URL](https://raw.githubusercontent.com/troygoode/fvtt-clocks/main/module.json):
 
 ```
-https://raw.githubusercontent.com/troygoode/fvtt-clocks/main/module.json
+https://raw.githubusercontent.com/kidaly-fndr/fvtt-clocks-kidaly-fix/main/module.json
 ```
 
 ## Demos
